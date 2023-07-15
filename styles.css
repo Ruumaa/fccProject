@@ -1,0 +1,57 @@
+body{
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+}
+main{
+    background-color: #EEEEEE;
+    margin: 30px 10px;
+    border-radius: 5px;
+}
+#title{
+    text-align: center;
+    padding-top: 10px;
+}
+h1{
+    font-size: 40px;
+    padding-top: 20px;
+
+}
+#title p{
+    font-size: 16;
+}
+figure{
+    background-color: white;
+    padding: 7px -0x;
+}
+#image{
+    display: block;
+    height: auto;
+    max-width: 100%;
+    width: auto;
+    margin: 10px auto;
+}
+#img-caption{
+    text-align: center;
+    font-size: 16px;
+    margin: 15px;
+}
+h3{
+    line-height: 5;
+    text-align: center;
+}
+#tribute-info{
+    margin: 0 auto;
+    width: 50%;
+    line-height: 1.5;
+}
+#tribute-info >ul > li{
+    text-align: left;
+    font-size: 16px;
+    padding: 10px;
+}
+#tribute-info > p{
+    padding-left: 30px;
+}
+#footer{
+    text-align: center;
+}
